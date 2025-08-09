@@ -1,2 +1,2 @@
-# webscraping
-To implement web scraping projects during machine learning cohort hosted by AI Saturdays Lagos
+# stock_scraper
+To implement web scraping on stock market data

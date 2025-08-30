@@ -1,4 +1,4 @@
-# stock_scraper
+# web_scraper
 Implemented web scraping and exploratory data analysis on stock market data which comprises about more than 80 stock tickers. While HTML web scraping could not be used to scrape text content because of the nature of data, we printed text headers, explored summary statistics of the and visualised he daily stock prices and returns in a histogram plot.
 
 From the Exploratory histogram plot, we can deduce:
@@ -8,3 +8,8 @@ From the Exploratory histogram plot, we can deduce:
 Additonally, the summary statistcis show:
 - mean daily closing price of 337.907
   
+Interestingly, another loaded online article data (link in the notebook) was harnessed for the natural language processing performed. In this python implementation, we performed the following task:
+- Scraped data lines
+- tokenised characters and words
+- Trained and visualised Word Embeddings Model
+- Test word similaruty.

@@ -1,15 +1,23 @@
-# web_scraper
+# ML_AI_Projects
+
+A. Web Scraping
 Implemented web scraping and exploratory data analysis on stock market data which comprises about more than 80 stock tickers. While HTML web scraping could not be used to scrape text content because of the nature of data, we printed text headers, explored summary statistics of the and visualised he daily stock prices and returns in a histogram plot.
 
 From the Exploratory histogram plot, we can deduce:
 - daily closing prices within the range $0 - $1000 had the highest frequecy.
 - daily returns rane between 0 - 20% had the highest frequency.
 
-Additonally, the summary statistcis show:
+Additonally, the summary statistics show:
 - mean daily closing price of 337.907
+
+
+B. Natural Language Processing of Scraped Data
   
 Interestingly, another loaded online article data (link in the notebook) was harnessed for the natural language processing performed. In this python implementation, we performed the following task:
 - Scraped data lines
 - tokenised characters and words
 - Trained and visualised Word Embeddings Model
-- Test word similaruty.
+- Test word similarity.
+
+C. Classification/Regression Model Implementation
+Performed classification and regression models on two different datasets (Links in the notebook) using Linear Regression, Random Forest, SVM, XGBoost, Linear Discriminant Analysis & Logisitic Regression

@@ -21,3 +21,5 @@ Interestingly, another loaded online article data (link in the notebook) was har
 
 C. Classification/Regression Model Implementation
 Performed classification and regression models on two different datasets (Links in the notebook) using Linear Regression, Random Forest, SVM, XGBoost, Linear Discriminant Analysis & Logisitic Regression
+
+Also perfromed a non-linear modelling and hyperparamter tuning on same datasets using Xgboost, Decision Tree, Catboost and Random Forest.

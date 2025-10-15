@@ -23,3 +23,6 @@ C. Classification/Regression Model Implementation
 Performed classification and regression models on two different datasets (Links in the notebook) using Linear Regression, Random Forest, SVM, XGBoost, Linear Discriminant Analysis & Logisitic Regression
 
 Also perfromed a non-linear modelling and hyperparamter tuning on same datasets using Xgboost, Decision Tree, Catboost and Random Forest.
+
+D. Feedforward Neural Network:
+Performed a feedforward neural netwrk classification to estimate the obesity levels based on the different eating habits and lifestyle parameters.
